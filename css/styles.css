@@ -186,3 +186,13 @@ span {
   color: var(--background-color);
   background-color: var(--accent-color);
 }
+
+.examples-title {
+  font-family: Roboto;
+  color: var(--title-text-color);
+}
+
+.examples-text {
+  font-family: Roboto;
+  color: var(--primary-text-color);
+}
